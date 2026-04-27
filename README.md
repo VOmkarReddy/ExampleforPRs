@@ -3,4 +3,5 @@ Example for Pull Requests
 
 Need to work out something
 
-DO something man
+DO something man,
+Doing something, Have patience
